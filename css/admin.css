@@ -1,0 +1,28 @@
+.c-green {
+    color: #3c763d;
+    background-color: #dff0d8;
+}
+
+.c-red {
+    color: #a94442;
+    background-color: #f2dede;
+}
+
+.c-yellow {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+}
+
+#progress p {
+    padding: 2px 10px;
+    margin-bottom: 1px;
+}
+
+#progress {
+    height: 200px;
+    overflow: auto;
+    border: 1px solid #C7D6DB;
+    background-color: #eee;
+    /*padding: 10px;*/
+    /*color: #fff;*/
+}
